@@ -1,0 +1,10 @@
+[
+  {
+    "package": "funr",
+    "oncran": true
+  },
+  {
+    "package": "params",
+    "oncran": true
+  }
+]
