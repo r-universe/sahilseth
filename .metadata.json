@@ -1,10 +1,10 @@
 [
   {
-    "package": "params",
+    "package": "funr",
     "oncran": true
   },
   {
-    "package": "funr",
+    "package": "params",
     "oncran": true
   }
 ]
