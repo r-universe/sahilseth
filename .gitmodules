@@ -13,3 +13,8 @@
 	url = https://github.com/sahilseth/params
 	shallow = true
 	registered = true
+[submodule "pipefittr"]
+	path = pipefittr
+	url = https://github.com/cran/pipefittr
+	shallow = true
+	registered = true
