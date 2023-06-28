@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "funr"]
 	path = funr
 	url = https://github.com/sahilseth/funr
-	shallow = true
-	registered = true
 [submodule "params"]
 	path = params
 	url = https://github.com/sahilseth/params
-	shallow = true
-	registered = true
 [submodule "pipefittr"]
 	path = pipefittr
 	url = https://github.com/cran/pipefittr
-	shallow = true
-	registered = true
