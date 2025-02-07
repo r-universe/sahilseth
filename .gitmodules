@@ -5,6 +5,9 @@
 [submodule "funr"]
 	path = funr
 	url = https://github.com/sahilseth/funr
+[submodule "params"]
+	path = params
+	url = https://github.com/sahilseth/params
 [submodule "pipefittr"]
 	path = pipefittr
 	url = https://github.com/cran/pipefittr
